@@ -1,0 +1,21 @@
+EJERCICIO 1 
+1. Generalización simbólica: ¿Cuáles son las reglas escritas del lenguaje?
+Sintaxis: reglas para declarar variables, funciones, estructuras de control, etc.
+Tipos de datos: number, string, boolean, array, object, entre otros.
+Variables y constantes: mediante let y const.
+Estructuras de control:
+Secuencia: instrucciones ejecutadas una después de otra.
+Selección: if, else, switch.
+Repetición: for, while, do...while.
+Funciones: permiten dividir el programa en procedimientos o bloques reutilizables.
+Operadores: aritméticos (+, -, *, /), relacionales (<, >, ==) y lógicos (&&, ||, !).
+Tipado: TypeScript permite especificar el tipo de una variable, parámetro o valor de retorno.
+
+2. Creencias de los profesionales: ¿Qué características particulares del lenguaje se cree que sean "mejores" que en otros lenguajes?
+Tipado estático: permite detectar muchos errores antes de ejecutar el programa.
+Mayor facilidad para mantener programas grandes: los tipos hacen que el código sea más fácil de comprender y modificar.
+Mejor autocompletado y herramientas de desarrollo: los editores pueden conocer los tipos y ofrecer mejores sugerencias.
+Compatibilidad con JavaScript: TypeScript puede utilizar código JavaScript y finalmente se transforma a JavaScript para ejecutarse.
+Interfaces y tipos: permiten describir claramente cómo deben ser los datos utilizados por un programa.
+Facilita la detección temprana de errores: por ejemplo, intentar pasar un string donde se espera un number puede ser detectado durante el desarrollo.
+Escalabilidad: se considera apropiado para proyectos grandes donde muchas personas trabajan sobre el mismo código.
